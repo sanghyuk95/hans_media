@@ -477,10 +477,14 @@
   margin-bottom: 10px;
   padding-left: 50px;
 }
+.sidebar-share-list > li.active {
+  color: red;
+}
 .sidebar-share-make {
   width: 100%;
   margin-top: 50px;
   padding-left: 10px;
+  margin-bottom: 150px;
 }
 .sidebar-share-make > form {
   display: flex;
@@ -562,7 +566,8 @@
     display: flex;
     z-index: 999;
     position: fixed;
-    top: 100px;
+    top: 160px;
+    left: 10px;
   }
   .main-btns > button {
     width: 120px;
@@ -672,4 +677,7 @@
   .category-hide > button {
     width: 100%;
   }
+  .share-table {
+    font-size: 14px;
+    }
 }
