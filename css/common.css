@@ -28,7 +28,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: start;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
   background-color: #fff;
   z-index: 999;
 }
@@ -111,8 +111,8 @@ button {
   position: fixed;
   top: 80px;
   left: 0;
-  border-top: 1px solid #f0f0f0;
-  border-right: 1px solid #f0f0f0;
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc;
   z-index: 999;
 }
 .sidebar-btn {
