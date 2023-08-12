@@ -87,11 +87,11 @@ button {
   right: 10px;
   width: 35px;
   height: 20px;
-  background: url("/images/header_menu.png") no-repeat center;
+  background: url("../images/header_menu.png") no-repeat center;
   background-size: contain;
 }
 .header-menu.active {
-  background: url("/images/header_x.png") no-repeat center;
+  background: url("../images/header_x.png") no-repeat center;
   background-size: contain;
 }
 .header-master {
